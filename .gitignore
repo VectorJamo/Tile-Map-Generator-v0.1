@@ -1,0 +1,6 @@
+.vs/
+bin/
+TileMapGeneratorV10.sln
+TileMapGenerator/obj/
+TileMapGenerator/TileMapGenerator.vcxproj
+TileMapGenerator/TileMapGenerator.vcxproj.user
